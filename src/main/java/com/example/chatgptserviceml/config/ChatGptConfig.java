@@ -3,7 +3,7 @@ package com.example.chatgptserviceml.config;
 public class ChatGptConfig {
 
     public static final String AUTHORIZATION = "Authorization";
-    public static final String BEARER = "Bearer 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";
+    public static final String BEARER = "Bearer OpenAI_API_KEY";
     public static final String API_KEY = "";
     public static final String MODEL = "text-davinci-003";
     public static final Integer MAX_TOKEN = 300;
